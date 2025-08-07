@@ -1,8 +1,8 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Glamour Glitz</title>
     <style>
         body {
@@ -119,7 +119,7 @@
 </nav>
 
 <section class="hero">
-    <img src="logo.jpg" alt="Glamour Glitz Logo">
+    <img src="03ba52c8-fc4f-4bed-8810-6a3394685284.png" alt="Glamour Glitz Logo" />
     <h1>Glamour Glitz</h1>
     <p>We Balance Beauty With Nature</p>
 </section>
@@ -134,7 +134,7 @@
     <h2>Our Products</h2>
     <div class="products">
         <div class="product">
-            <img src="foam_cleanser.jpg" alt="Foam Cleanser">
+            <img src="foam_cleanser.jpg" alt="Foam Cleanser" />
             <h3>Foam Cleanser (150ml)</h3>
             <div class="rating">★★★★★</div>
             <p>Gently removes dirt without stripping skin.</p>
@@ -142,7 +142,7 @@
             <a href="https://wa.me/916351137898?text=I%20want%20to%20order%20Foam%20Cleanser" class="btn">Buy Now</a>
         </div>
         <div class="product">
-            <img src="toner.jpg" alt="Natural Toner">
+            <img src="toner.jpg" alt="Natural Toner" />
             <h3>Natural Toner (100ml)</h3>
             <div class="rating">★★★★★</div>
             <p>Tightens pores and hydrates skin.</p>
@@ -150,7 +150,7 @@
             <a href="https://wa.me/916351137898?text=I%20want%20to%20order%20Natural%20Toner" class="btn">Buy Now</a>
         </div>
         <div class="product">
-            <img src="serum.jpg" alt="Face Serum">
+            <img src="serum.jpg" alt="Face Serum" />
             <h3>Face Serum (30ml)</h3>
             <div class="rating">★★★★★</div>
             <p>Vitamin-rich for glow and repair.</p>
@@ -158,7 +158,7 @@
             <a href="https://wa.me/916351137898?text=I%20want%20to%20order%20Face%20Serum" class="btn">Buy Now</a>
         </div>
         <div class="product">
-            <img src="moisturizer.jpg" alt="Moisturizer">
+            <img src="moisturizer.jpg" alt="Moisturizer" />
             <h3>Moisturizer (125ml)</h3>
             <div class="rating">★★★★★</div>
             <p>Non-greasy, long-lasting hydration.</p>
@@ -166,7 +166,7 @@
             <a href="https://wa.me/916351137898?text=I%20want%20to%20order%20Moisturizer" class="btn">Buy Now</a>
         </div>
         <div class="product">
-            <img src="lipbalm.jpg" alt="Lip Balm">
+            <img src="lipbalm.jpg" alt="Lip Balm" />
             <h3>Lip Balm (10ml)</h3>
             <div class="rating">★★★★★</div>
             <p>Keeps lips soft and nourished.</p>
@@ -192,9 +192,10 @@
 <footer>
     <p>&copy; 2025 Glamour Glitz. All Rights Reserved.</p>
     <div class="qr-footer">
-        <img src="qr_code.png" alt="QR Code">
+        <img src="qr_code.png" alt="QR Code" />
     </div>
 </footer>
 
 </body>
 </html>
+
