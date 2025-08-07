@@ -79,9 +79,6 @@
       color: white;
       border-radius: 8px;
     }
-    section {
-      margin-top: 40px;
-    }
   </style>
 </head>
 <body>
@@ -135,23 +132,11 @@
   </div>
 </section>
 
-<section id="contact">
-  <h2>Contact Us</h2>
-  <p>Email: <a href="mailto:aryan1225sharma@gmail.com">aryan1225sharma@gmail.com</a></p>
-  <p>Instagram: <a href="https://instagram.com/glamourglitsco" target="_blank">@glamourglitsco</a></p>
-  <p>WhatsApp: <a href="https://wa.me/916351137898">+91 6351137898</a></p>
-
-  <h3>About Us</h3>
-  <p>
-    At Glamour Glitz, we believe skincare should be pure, effective, and affordable. 
-    Our Halper Kit is 100% nature-based, chemical-free, and perfect for all skin types and ages.
-  </p>
-</section>
-
 <footer>
   &copy; 2025 Glamour Glitz. All Rights Reserved.
 </footer>
 
 </body>
 </html>
+
 
