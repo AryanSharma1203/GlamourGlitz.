@@ -36,20 +36,26 @@
             color: #e3b8ff;
         }
         .hero {
-            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
             padding: 30px;
         }
         .hero img {
-            width: 120px;
-            border-radius: 50%;
+            width: 80px;
+            height: auto;
         }
         .hero h1 {
             font-size: 28px;
             color: #a76cc3;
+            margin: 0;
         }
         .hero p {
             font-size: 16px;
             color: #555;
+            text-align: center;
+            margin-top: 10px;
         }
         .section {
             padding: 40px 20px;
@@ -121,6 +127,9 @@
 <section class="hero">
     <img src="03ba52c8-fc4f-4bed-8810-6a3394685284.png" alt="Glamour Glitz Logo" />
     <h1>Glamour Glitz</h1>
+</section>
+
+<section class="hero">
     <p>We Balance Beauty With Nature</p>
 </section>
 
